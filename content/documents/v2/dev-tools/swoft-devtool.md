@@ -50,7 +50,7 @@ Options:
   -V, --version    Show application version information
       --expand     Expand sub-commands for all command groups
 
-Available Commands:
+Available Commands:1
   agent      This is an agent for Apllo config center
   app        There are some help command for application[by devtool]
   dclient    Provide some simple tcp, ws client for develop or testing[by devtool]
